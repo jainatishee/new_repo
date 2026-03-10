@@ -1,1 +1,2 @@
 Welcome to GIT and GITHUB
+We are learning to use GIT!
